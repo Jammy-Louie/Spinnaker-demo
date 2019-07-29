@@ -1,0 +1,13 @@
+---
+applications:
+  - name: deck2
+    instances: 2
+    disk_quota: 1024M
+    memory: 1024M
+    domain: shared-domain.example.com
+    path: /path/to/application/bits
+    buildpack: staticfile_buildpack
+    env:
+      SOME_VALUE: SOME_VALUE
+    services:
+    - some-service
