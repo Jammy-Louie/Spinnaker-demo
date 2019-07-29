@@ -1,0 +1,8 @@
+---
+service_name: test_service
+syslog_drain_url: https://www.example.com/syslog_drain_url
+route_service_url: https://www.example.com/test_route_service_url
+tags:
+  - test_tag1
+  - test_tag2
+credentials_map: "{\"foo\": \"bar\"}"

@@ -1,0 +1,8 @@
+---
+service_name: mysqlservice
+service: p.mysql
+service_plan: db-small
+tags:
+- tag1
+# parameters: |
+#   { "foo": "bar" }

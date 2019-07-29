@@ -1,0 +1,8 @@
+---
+service_instance_name: test-you
+service: p-redis
+service_plan: shared-vm
+tags:
+- tag1
+# parameters: |
+#   { "foo": "bar" }
