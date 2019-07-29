@@ -1,6 +1,6 @@
 ---
 applications:
-  - name: deck2
+  - name: Sample
     instances: 2
     disk_quota: 1024M
     memory: 1024M
