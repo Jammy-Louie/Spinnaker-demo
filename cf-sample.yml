@@ -5,6 +5,6 @@ applications:
     disk_quota: 1024M
     memory: 1024M
     routes:
-      - sample.apps.sonoma.cf-app.com
+    - route: sample.apps.sonoma.cf-app.com
     env:
       SOME_VALUE: SOME_VALUE
