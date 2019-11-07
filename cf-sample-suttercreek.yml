@@ -9,4 +9,5 @@ applications:
     env:
       SOME_VALUE: SOME_VALUE
     services:
-      - mysqlservice  
+      - mysqlservice
+      - redis-service-instance
