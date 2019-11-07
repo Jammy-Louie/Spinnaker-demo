@@ -1,5 +1,5 @@
 ---
-service_instance_name: test-you
+service_instance_name: redis-service-instance
 service: p-redis
 service_plan: shared-vm
 tags:
