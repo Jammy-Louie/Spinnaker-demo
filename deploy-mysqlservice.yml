@@ -1,5 +1,5 @@
 ---
-service_name: mysqlservice
+service_instance_name: mysqlservice
 service: p.mysql
 service_plan: db-small
 tags:
