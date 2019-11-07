@@ -7,4 +7,4 @@ applications:
     env:
       SOME_VALUE: SOME_VALUE
     services:
-      - testdb  
+      - mysqlservice  
