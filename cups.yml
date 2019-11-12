@@ -1,5 +1,5 @@
 ---
-service_name: test_service
+service_instance_name: test_service
 syslog_drain_url: https://www.example.com/syslog_drain_url
 route_service_url: https://www.example.com/test_route_service_url
 tags:
